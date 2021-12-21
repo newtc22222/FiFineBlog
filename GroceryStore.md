@@ -21,4 +21,8 @@ Trong ứng dụng này, tôi sử dụng Hệ quản trị cơ sở dữ liệu
 ## Code tham khảo
 ``` markdown
 #Using System
+
+public static void main(string[] args){
+  Application.Start(new Program());
+}
 ```
