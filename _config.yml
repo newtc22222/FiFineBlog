@@ -1,5 +1,5 @@
 title: F1Fine Blog
 description: Nơi chia sẻ các dự án đã từng làm.
 show_downloads: true
-google_analytics: true
+google_analytics:
 theme: jekyll-theme-slate
