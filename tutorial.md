@@ -1,32 +1,32 @@
-## Welcome to GitHub Pages
+## Chào mừng đến với GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/newtc22222/FiFineBlog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bạn có thể dùng [editor on GitHub](https://github.com/newtc22222/FiFineBlog.github.io/edit/gh-pages/index.md) để tạo nên nội dung trong Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mỗi khi bạn commit vào repository này, GitHub Pages sẽ khởi chạy [Jekyll](https://jekyllrb.com/) để rebuild trang web của bạn, từ nội dung trong Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown là cấu trúc nhẹ và dễ sử dụng để bạn tạo nên phong cách cho site của mình. Bên dưới là cấu trúc cơ bản
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Tiêu đề 1
+## Tiêu đề 2
+### Tiêu đề 3
 
-- Bulleted
-- List
+- Danh sách
+- Liệt kê
 
-1. Numbered
-2. List
+1. Danh sách
+2. Thứ tự
 
-**Bold** and _Italic_ and `Code` text
+**In đậm** và _In nghiên_ và `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Tìm hiểu thêm tại [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
