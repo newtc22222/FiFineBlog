@@ -9,7 +9,7 @@ tôi lựa chọn việc xây dựng ứng dụng dựa trên các shop bán hà
 
 ## Khâu thiết kế
 Phần quan trọng đối với mỗi dự án luôn là việc xây dựng những cấu trúc đầu tiên, việc định hình được cấu trúc của một chương trình sẽ giúp cho chúng ta hiểu rõ các vấn đề
-cần thiết bên trong, tăng tốc độ code và giảm thiểu những sai sót về cấu trúc cũng như logic trong quá trình hoàn thành. <br>  
+cần thiết bên trong, tăng tốc độ code và giảm thiểu những sai sót về cấu trúc cũng như logic trong quá trình hoàn thành.
 Trong bài viết này, tôi sẽ đề cập đến các lược đồ cơ bản như là **Use-case**, **Activity diagram** và **ER diagram**
 ### Use-case
 Đây là lược đồ mang tính quyết định đến sự khái quát về các tính năng và tác nhân cơ bản bên trong chương trình. <br> <br>
@@ -28,8 +28,10 @@ nghiên cứu về thông tin của từng thực thể và phân tích chi ti�
 ### Tiến hành thiết lập cơ sở dữ liệu
 Trong ứng dụng này, tôi sử dụng Hệ quản trị cơ sở dữ liệu là **SQL Server** vì ứng dụng chính sẽ được viết trên IDE **Microsoft Visual Studio 2019**
 1. Các bảng bên trong cơ sở dữ liệu
-2. Các thủ tục (store procedure)
-3. Các hàm (function)
+2. Tạo các Trigger
+3. Các thủ tục (Store Procedure)
+4. Các hàm (Function)
+
 ### Xây dựng giao diện của chương trình
 Ứng dụng được thiết kế bằng các công cụ cơ bản của **Windows Form** kết hợp giữa các _Form_ và _User Control_
 
@@ -41,3 +43,5 @@ public static void main(string[] args){
   Application.Start(new Program());
 }
 ```
+
+[Về trang chủ](index.md)
