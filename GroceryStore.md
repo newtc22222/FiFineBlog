@@ -12,17 +12,17 @@ Phần quan trọng đối với mỗi dự án luôn là việc xây dựng nh�
 cần thiết bên trong, tăng tốc độ code và giảm thiểu những sai sót về cấu trúc cũng như logic trong quá trình hoàn thành. <br>  
 Trong bài viết này, tôi sẽ đề cập đến các lược đồ cơ bản như là **Use-case**, **Activity diagram** và **ER diagram**
 ### Use-case
-Đây là lược đồ mang tính quyết định đến sự khái quát về các tính năng và tác nhân cơ bản bên trong chương trình. <br>
+Đây là lược đồ mang tính quyết định đến sự khái quát về các tính năng và tác nhân cơ bản bên trong chương trình. <br> <br>
 ![Lược đồ Use-case](https://lh3.googleusercontent.com/pw/AM-JKLXRfWL41xF0Lo4X3muuIhuMj9d4sT6D9T0vHaYJd4uKEIFgI5mt8td7iTDwVXKcuaR_6ycyWxGhZVIHK7-62nQ58C0i_hKa6Gv2NZrZRpmeHyDUL3ByicrPggua0xXmy_WQ1FbgxEfp4y3qJKJ26MKI=s831-no?authuser=0)
 ### Activity diagram
 Lược đồ hoạt động sẽ giúp bạn định hình các hoạt động liên quan đến hệ thống và tác động của nó trong quá trình làm việc. <br>
-Các **Activity diagram** sẽ được tạo nên dựa trên các **Use-case** đã đề cập trước đó. <br>
+Các **Activity diagram** sẽ được tạo nên dựa trên các **Use-case** đã đề cập trước đó. <br> <br>
 ![Lược đồ hoạt động đăng nhập](https://lh3.googleusercontent.com/7LyuEDuXprlvm-yQOz_1Ez9M67THXhKGXulo8WMbY4l8t2HSBbE10DOOi3U6uxc0UOFpJVoFwASySTJSRDNp-XescQvvs4jrxY5SbU89y5UYd1uK3bHD_OJUEmhLTkiw3EfMYHl89YfX0oQRgxJkIQv_ceFUlpzOAxSj-oWZNxZuruhpXk9S_4NV_ujtL5BJvsWN6i-lZdE8SovdmaNqgMAFaVdkdNEpyzcCC0S4rP6DxB6wDmU7lll3qn_LWz-myhuh0iO_W3ByytzIFRSDXEfb2-a44Ia1wlPMbEvek0C37LOSTystZMnP6sHN-yt7AMVNFC-VcgXeTyZ1_i3qhpAvRQbX7NCzKvOt6eYXPxvgrKjGv06TrTFIsACB0lTWkhcFyUkDTJzQS1P4G90AMwvWZQUw6I-ORPD_9cxUcsdTMCstJMC5GVWQpYZ013GemYV9etIM5WmqKeOPSnJY7R5p4cHIhFtH3h0g6y6VcRcrzfl7qBRkqFKJSEIY4mzeG5EfEaIJJCP9IC5VHeGbrUeE-oFW6Skhy8o3_rV3yVSVOW2mUrh5t4wlBTaKSawppHtX_QYAPJCLLmn3dOCmT_FPgKfT8PmB1yrq5_8I0sOH2ipr7KT29Ys6y8cBRZjuwQHia70OMZn7EJstSuhTa0npgdeXnlrSwO3vhfAzddRLOZt2g6W3ECZ_pEy3olhiamX1NCmRy5z7m0WIvF-vXDv2=w521-h236-no?authuser=0) <br>
 _Activity diagram cho Use-case đăng nhập_
 ### ER Diagram
 Trước khi làm đến lược đồ này, chúng ta đã khái quát được các chức năng và hoạt động bên trong hệ thống, phần còn lại là hình dung được các thực thể sẽ hoạt động như thế nào
 phía bên trong hệ thống. Đây chính là lúc tạo ra ER diagram để có thể hình dung cụ thể hơn mức độ tương tác giữa các thực thể,
-nghiên cứu về thông tin của từng thực thể và phân tích chi tiết các hành động để tiến hành thiết lập cơ sở dữ liệu. <br>
+nghiên cứu về thông tin của từng thực thể và phân tích chi tiết các hành động để tiến hành thiết lập cơ sở dữ liệu. <br> <br>
 ![Lược đồ ER](https://lh3.googleusercontent.com/R_9CqKP4-1GdCO6yAiwanVEGyETMq4g7bQF9x1lpwrqFgaIE1vtHJt0GtcD7OxNIyQyQ8CgwrAMBUP3rtJtIxbp85B38xcPfqDXniuYrj_GX7BFAYQDLllnbPBFdVS4i-JvyKx5Xzv2pxH5ixt5kuiey3LBwqWvxQUG2EYFhHs7Exg0JWy_1NiWEQq5F4xIBDQ9EVzW1hMG9sN5YmEo3LqLlKGjrztpJfJYwP_jYPZh11JD1ZRDsebrrVM26LaRVD7edNN8taDUPLJi2Mrkc7vY9ZN7dumWejr3CMLtxC4emtKjUmkwZghlNw4C03dKAJYI3qnUrwN9YbDvcTgrSzBCDW9gxq9ZSkTD1cvwxEkzK7P7NpVM6dioyOs_QIXLzteNuTI7A33Wx6SxKGSycvZ7yhYKhyhp6XrU27fHIg-ZjwqPMVoikSIXBgxKxN-izQviSsrKQ5pSUE3x5iRXnrsn93MWcCZFXM6HVpqF5JvC5nM_IB2ScmWobA0WUJNZIcWGWN8-_wqVkWsPK1m2XurHebTq3PX9kPfYplTCxfSE4rjSckWSpfPOiQQ4JBQe2xNgdY3Qcj3QC8GCThXNYfI1s84_gmgiXiEVeveKhMZDu9G-4gaaL-MqkmCwU2Gh9wYJGx8RxCWUYvI7S3vIpBgrtcSm8HN28AfVYpMLuN5_buz62VlxnAj6DgHX4O4O_D3vQwvbN2_PDa1mz_qDaexU3=w1301-h916-no?authuser=0)
 ## Khâu thực hiện
 ### Tiến hành thiết lập cơ sở dữ liệu
