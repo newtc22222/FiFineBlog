@@ -1,12 +1,22 @@
-# Ứng dụng cửa hàng tiện lợi
+# Ứng dụng Cửa hàng tiện lợi
+## Ý tưởng của ứng dụng
+Ứng dụng dựa trên hoạt động từ các cửa hàng bán lẻ xung quanh chúng ta, đó có thể là các quầy bán thức ăn nhanh, shop quần áo, mĩ phẩm. Trong lần thực hiện dự án này,
+tôi lựa chọn việc xây dựng ứng dụng dựa trên các shop bán hàng khá phổ biến với lượng hàng hóa vô cùng đa dạng như Family Mark, MiniStop,... <br>
+Ứng dụng tập trung vào khả năng kiểm soát hàng hóa bên trong cửa hàng, giữa việc quản lý các mặt hàng, nhập và bán, cũng như thống kê doanh thu theo chu kỳ. <br>
+> Bên cạnh đó, ứng dụng cũng sẽ đề cập đến việc kiểm soát các nhân viên làm việc cho cửa hàng dành cho chủ cửa hàng.
+> Việc liên lạc với nhân viên trực tuyến đã trở nên khá phổ biến. Đây sẽ là phần mở rộng cho ứng dụng.
 ## Khâu thiết kế
-Phần quan trọng không thể thiếu với mỗi ứng dụng cơ bản luôn là việc xây dựng những cấu trúc đầu tiên, 
-ở đây tôi sẽ nói về các lược đồ cơ bản như là **Use-case** và **Activity diagram**
+Phần quan trọng đối với mỗi dự án luôn là việc xây dựng những cấu trúc đầu tiên, việc định hình được cấu trúc của một chương trình sẽ giúp cho chúng ta hiểu rõ các vấn đề
+cần thiết bên trong, tăng tốc độ code và giảm thiểu những sai sót về cấu trúc cũng như logic trong quá trình hoàn thành. <br>  
+Trong bài viết này, tôi sẽ đề cập đến các lược đồ cơ bản như là **Use-case**, **Activity diagram** và **ER diagram**
 ### Use-case
-Đây là lược đồ mang tính quyết định đến sự hình dung về các tính năng và tác nhân cơ bản bên trong chương trình. <br>
-![Lược đồ Use-case](https://user-images.githubusercontent.com/64945902/146870335-e6ccfbe0-d0cb-4f6a-814b-29b082e0e399.png)
+Đây là lược đồ mang tính quyết định đến sự khái quát về các tính năng và tác nhân cơ bản bên trong chương trình. <br>
+![Lược đồ Use-case](https://drive.google.com/file/d/1XFH5lMSerp4r86dnXDLlmMdite_LiJSr/view?usp=sharing)
 ### Activity diagram
-Lược đồ hoạt động sẽ giúp bạn định hình các hoạt động liên quan đến hệ thống và tác động của nó trong quá trình làm việc.
+Lược đồ hoạt động sẽ giúp bạn định hình các hoạt động liên quan đến hệ thống và tác động của nó trong quá trình làm việc. <br>
+Các **Activity diagram** sẽ được tạo nên dựa trên các **Use-case** đã đề cập trước đó. <br>
+![Lược đồ hoạt động đăng nhập](https://drive.google.com/file/d/1obTsnG5lkfc5qtaO5V8ObGK3z6L5B421/view?usp=sharing)
+_Activity diagram cho Use-case đăng nhập_
 ### ER Diagram
 `Đang cập nhật`
 ## Khâu thực hiện
