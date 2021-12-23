@@ -34,4 +34,6 @@ nghiên cứu về thông tin của từng thực thể và phân tích chi ti�
 ![Lược đồ ER](https://lh3.googleusercontent.com/uvgSU8_IsJZWZf4CbF_frFP9vIddYu2rX7_cobnmcRbkDKW3IYpKi6dtzcHYi7hcQGds4WDIiyMPSfMzmmp73-JYOFujgumixiyYI2qtYixqOAjU33lR-IHnOKjwDYKbxDIG3mD2X3VeI4R9_OGRiVmmZUYmMACBFy3WjE33_7cWuGlqaQlkp0g7Fknz98Qo1qde0R7gVk568dxK36luw6VQQDKfl2LYwiqpZjkmIkF66q_sgJ0PT2JOMI1H5s3_SkYXOAyFo4E0dg1QGpm_E82xcJIUyivNXNMGi0B2vU-31qO4htPq2QRRiaIh01E5vbWIFMFRsZ2a0febgjAn3NVg_pQMu0_kru2Lf0TLhb0pD4euBZiyoO4MyYC0TYv4E9zX9Fa7FVA7MbYN6NKpXA0koi410Pqq-Mr2C5hQcDnRmTWzJFherLftdwcJakl9yVwu2K5Y4MwBM-X_wptatJBwk7YLx-DUfHxfDgTfbhx_-fEdeqRQ_XSA8Chj-Z7sJf9bU58YFITfUnIIvgxSyz4jM7KaZNCIa8A6q3BJqWdvdTSWJX4vjZQzW8mSMebGS5TnvPNkBvEO2FloOUbDKZ4D89_FrLdOVfSFmcfcYNe_TqFTK_brf9g0-K4bElq-jpGp1mf3CtR6kqfn53FaugDESNbAnV02kA5JeAgyQMVnw-vZBWp5Pzc6k-yVtGCyIrLiDLgg8PznNJT7SCTGQvZP=w1301-h916-no?authuser=0)
 
 [P2: Triển khai cơ sở dữ liệu](GroceryStore2.md) <br>
+[P3: Thiết kế giao diện người dùng](GroceryStore3.md) <br>
+[P4: Lập trình kết nối và chức năng](GroceryStore4.md) <br>
 [Về trang chủ](index.md)
