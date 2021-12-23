@@ -15,4 +15,4 @@ Trong ứng dụng này, tôi sử dụng Hệ quản trị cơ sở dữ liệu
 [P1: Phân tích và mô hình hóa](GroceryStore1.md) <br>
 [P3: Thiết kế giao diện người dùng](GroceryStore3.md) <br>
 [P4: Lập trình kết nối và chức năng](GroceryStore4.md) <br>
-[Về trang chủ](index.md)
+[Về trang chủ](https://newtc22222.github.io/FiFineBlog/)
