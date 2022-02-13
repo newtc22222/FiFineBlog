@@ -13,11 +13,11 @@ cần thiết bên trong, tăng tốc độ code và giảm thiểu những sai 
 Trong bài viết này, tôi sẽ đề cập đến các lược đồ cơ bản như là **Use-case**, **Activity diagram** và **ER diagram**
 ### Use-case
 Đây là lược đồ mang tính quyết định đến sự khái quát về các tính năng và tác nhân cơ bản bên trong chương trình. <br> <br>
-![Lược đồ Use-case](https://lh3.googleusercontent.com/pw/AM-JKLXRfWL41xF0Lo4X3muuIhuMj9d4sT6D9T0vHaYJd4uKEIFgI5mt8td7iTDwVXKcuaR_6ycyWxGhZVIHK7-62nQ58C0i_hKa6Gv2NZrZRpmeHyDUL3ByicrPggua0xXmy_WQ1FbgxEfp4y3qJKJ26MKI=s831-no?authuser=0)
+![Lược đồ Use-case](./GroceryStoreDiagram/grocery_store-Use-case.drawio.png)
 ### Activity diagram
 Lược đồ hoạt động sẽ giúp bạn định hình các hoạt động liên quan đến hệ thống và tác động của nó trong quá trình làm việc. <br>
 Các **Activity diagram** sẽ được tạo nên dựa trên các **Use-case** đã đề cập trước đó. <br> <br>
-![Lược đồ hoạt động đăng nhập](./GroceryStoreDiagram/Login.png)) <br>
+![Lược đồ hoạt động đăng nhập](./GroceryStoreDiagram/Login.png) <br>
 _Activity diagram cho Use-case đăng nhập_ <br><br>
 ![Lược đồ hoạt động tương tác dữ liệu](./GroceryStoreDiagram/Control.png) <br>
 _Activity diagram cho Use-case thêm, cập nhật, xóa_ <br><br>
