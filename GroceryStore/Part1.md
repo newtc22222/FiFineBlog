@@ -13,27 +13,27 @@ cần thiết bên trong, tăng tốc độ code và giảm thiểu những sai 
 Trong bài viết này, tôi sẽ đề cập đến các lược đồ cơ bản như là **Use-case**, **Activity diagram** và **ER diagram**
 ### Use-case
 Đây là lược đồ mang tính quyết định đến sự khái quát về các tính năng và tác nhân cơ bản bên trong chương trình. <br> <br>
-![Lược đồ Use-case](./GroceryStoreDiagram/grocery_store-Use-case.drawio.png)
+![Lược đồ Use-case](./Diagrams/grocery_store-Use-case.drawio.png)
 ### Activity diagram
 Lược đồ hoạt động sẽ giúp bạn định hình các hoạt động liên quan đến hệ thống và tác động của nó trong quá trình làm việc. <br>
 Các **Activity diagram** sẽ được tạo nên dựa trên các **Use-case** đã đề cập trước đó. <br> <br>
-![Lược đồ hoạt động đăng nhập](./GroceryStoreDiagram/Login.png) <br>
+![Lược đồ hoạt động đăng nhập](./Diagrams/Login.png) <br>
 _Activity diagram cho Use-case đăng nhập_ <br><br>
-![Lược đồ hoạt động tương tác dữ liệu](./GroceryStoreDiagram/Control.png) <br>
+![Lược đồ hoạt động tương tác dữ liệu](./Diagrams/Control.png) <br>
 _Activity diagram cho Use-case thêm, cập nhật, xóa_ <br><br>
-![Lược đồ hoạt động bán hàng](./GroceryStoreDiagram/Sell.png) <br>
+![Lược đồ hoạt động bán hàng](./Diagrams/Ordered.png) <br>
 _Activity diagram cho Use-case bán hàng_<br><br>
-![Lược đồ hoạt động nhập hàng](./GroceryStoreDiagram/buy.png) <br>
+![Lược đồ hoạt động nhập hàng](./Diagrams/Imported.png) <br>
 _Activity diagram cho Use-case nhập hàng_ <br><br>
-![Lược đồ hoạt động thống kê](./GroceryStoreDiagram/Report.png) <br>
+![Lược đồ hoạt động thống kê](./Diagrams/Report.png) <br>
 _Activity diagram cho Use-case thống kê_ <br>
 ### ER Diagram
 Trước khi làm đến lược đồ này, chúng ta đã khái quát được các chức năng và hoạt động bên trong hệ thống, phần còn lại là hình dung được các thực thể sẽ hoạt động như thế nào
 phía bên trong hệ thống. Đây chính là lúc tạo ra ER diagram để có thể hình dung cụ thể hơn mức độ tương tác giữa các thực thể,
 nghiên cứu về thông tin của từng thực thể và phân tích chi tiết các hành động để tiến hành thiết lập cơ sở dữ liệu. <br> <br>
-![Lược đồ ER](./GroceryStoreDiagram/grocery_store-ER Diagram.drawio.png)
+![Lược đồ ER](./Diagrams/grocery_store-ER Diagram.drawio.png)
 
-[P2: Triển khai cơ sở dữ liệu](GroceryStore2.md) <br>
-[P3: Thiết kế giao diện người dùng](GroceryStore3.md) <br>
-[P4: Lập trình kết nối và chức năng](GroceryStore4.md) <br>
-[Về trang chủ](index.md)
+[P2: Triển khai cơ sở dữ liệu](./Part2.md) <br>
+[P3: Thiết kế giao diện người dùng](./Part3.md) <br>
+[P4: Lập trình kết nối và chức năng](./Part4.md) <br>
+[Về trang chủ](/index.md)

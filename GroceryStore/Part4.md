@@ -9,7 +9,7 @@ Ngoài ra còn có 1 phân lớp DTO để có thể quản lý các đối tư�
 
 ## [Source code](https://github.com/newtc22222)
 
-[P1: Phân tích và mô hình hóa](GroceryStore1.md) <br>
-[P2: Triển khai cơ sở dữ liệu](GroceryStore2.md) <br>
-[P3: Thiết kế giao diện người dùng](GroceryStore3.md) <br>
-[Về trang chủ](index.md)
+[P1: Phân tích và mô hình hóa](./Part1.md) <br>
+[P2: Triển khai cơ sở dữ liệu](./Part2.md) <br>
+[P3: Thiết kế giao diện người dùng](./Part3.md) <br>
+[Về trang chủ](/index.md)
