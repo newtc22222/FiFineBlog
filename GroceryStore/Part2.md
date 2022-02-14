@@ -15,4 +15,4 @@ Trong ứng dụng này, tôi sử dụng Hệ quản trị cơ sở dữ liệu
 [P1: Phân tích và mô hình hóa](./Part1.md) <br>
 [P3: Thiết kế giao diện người dùng](./Part3.md) <br>
 [P4: Lập trình kết nối và chức năng](./Part4.md) <br>
-[Về trang chủ](/index.md)
+[Về trang chủ](/FiFineBlog/)

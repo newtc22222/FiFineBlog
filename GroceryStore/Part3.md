@@ -22,4 +22,4 @@ public static void main(string[] args){
 [P1: Phân tích và mô hình hóa](./Part1.md) <br>
 [P2: Triển khai cơ sở dữ liệu](./Part2.md) <br>
 [P4: Lập trình kết nối và chức năng](./Part4.md) <br>
-[Về trang chủ](/index.md)
+[Về trang chủ](/FiFineBlog/)
