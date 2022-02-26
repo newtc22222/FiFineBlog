@@ -2,6 +2,7 @@
 ## Tiến hành thiết lập cơ sở dữ liệu
 Trong ứng dụng này, tôi sử dụng Hệ quản trị cơ sở dữ liệu là **Microsoft SQL Server** vì ứng dụng chính sẽ được viết trên IDE **Microsoft Visual Studio 2019** ~~bản community~~. Việc sử dụng **Microsoft SQL Server** sẽ tăng tính bảo mật của thông tin, ~~(một phần là do tôi quen với cái này)~~ tuy nhiên các bạn hoàn toàn có thể dùng MySQL, SQLite, ... tùy ý theo nhu cầu và khả năng của mình.
 ## 1. Các bảng bên trong cơ sở dữ liệu
+`
 	[ID] [char](20) NOT NULL,
 	[Name] [nvarchar](255) NOT NULL,
 	[TypeProduct] [nvarchar](50) NULL,
@@ -11,7 +12,7 @@ Trong ứng dụng này, tôi sử dụng Hệ quản trị cơ sở dữ liệu
 	[Note] [nvarchar](255) NULL,
 	[Price] [float] NOT NULL,
 	[SupplierID] [char](20) NULL
-*Bảng sản phẩm*<br>
+*Bảng sản phẩm*
 
 	[ID] [char](20) NOT NULL,
 	[Name] [nvarchar](255) NOT NULL,
@@ -22,7 +23,7 @@ Trong ứng dụng này, tôi sử dụng Hệ quản trị cơ sở dữ liệu
 	[Phone] [char](15) NOT NULL,
 	[Email] [varchar](50) NULL,
 	[Images] [image] NULL
-*Bảng nhân viên*<br>
+*Bảng nhân viên*
 
 	[ID] [char](20) NOT NULL,
 	[StaffID] [char](20) NULL,
@@ -80,9 +81,10 @@ Trong ứng dụng này, tôi sử dụng Hệ quản trị cơ sở dữ liệu
 	[Quantity] [int] NOT NULL,
 	[Total] [float] NOT NULL
 *Bảng chi tiết phiếu nhập hàng*
+`
 <br>
 ### Hình ảnh chi tiết các bảng
-`Đang cập nhật`
+![GroceryStoreDiagram](./Images/GroceryStoreDiagram.png)
 
 ## 2. Tạo các Trigger
 - Kiểm tra thời hạn hợp đồng nhập vào
@@ -127,7 +129,7 @@ Trong ứng dụng này, tôi sử dụng Hệ quản trị cơ sở dữ liệu
   - Khoảng giá
  - Tìm phiếu nhập hàng / bán hàng trong khoảng thời gian
 
-### [Source code sql]()
+### [Source code sql](./GroceryStore.sql)
 
 [P1: Phân tích và mô hình hóa](./Part1.md) <br>
 [P3: Thiết kế giao diện người dùng](./Part3.md) <br>
